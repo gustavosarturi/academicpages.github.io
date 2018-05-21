@@ -19,6 +19,3 @@ ONG em Ação 2017
 Professor Voluntário de Matemática - Funções Exponenciais & Logaritmicas;
 
 Em breve as notas de aulas estarão disponíveis no site;
-
-Heading 3
-======
