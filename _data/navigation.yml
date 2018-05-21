@@ -4,7 +4,7 @@ main:
     url: /publications/ 
 
   - title: "ONG em Ação"
-    url: /emacao/    
+    url: /emacao.md   
     
   - title: "CV Lattes"
-    url: /http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K8088247Y5/
+    url: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K8088247Y5/
