@@ -8,6 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Bem vindo
 ======
-Site em Manutenção
+Graduando de Matemática Industrial (UFPR), ex-graduando de Matemática (UNESPAR), Bolsita Pesquisador do PET Matemática (UFPR), Professor Voluntário de Matemática na ONG em Ação, Enxadrista Amador e Designer Gráfico Freelancer.
