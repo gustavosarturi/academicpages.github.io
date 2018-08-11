@@ -3,9 +3,7 @@ permalink: /
 title: "Gustavo Henrique Silva Sarturi"
 excerpt: "Events"
 author_profile: true
-redirect_from: 
-  - /_pages/
-  - /events.md
+
 ---
 
 
