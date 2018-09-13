@@ -12,3 +12,5 @@ redirect_from:
 Site para notas de Aula
 
 Bacharelando de Matemática Industrial (UFPR), ex-graduando de Matemática (UNESPAR), Bolsista Pesquisador do PET Matemática (UFPR), Professor Voluntário de Matemática na ONG em Ação, Enxadrista Amador e Designer Gráfico Freelancer.
+
+<a href="https://github.com/gustavosarturi/sarturi/tree/master/pascal" target="_blank">Códigos em Pascal</a>
