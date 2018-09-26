@@ -1,0 +1,23 @@
+---
+layout: archive
+title: "Curriculum"
+permalink: /curriculum/
+author_profile: true
+---
+<h3>Graduação</h3>
+
+<li> 2017: Graduação em Andamento em Bacharelado em Matemática Industrial - UFPR;</li>
+<li> 2015 - 2016: Graduação Interrompida em Matemática - UNESPAR;</li>
+
+<h3>Eventos</h3>
+<li> Organizou o evento: "J3M 2017 - Jornada de Matemática, Matemática Aplicada e Educação Matemática" juntamente com demais membros do grupo PET - Matemática UFPR;</li>
+<li> Organizou o evento: "SMAT - Semana da Matemática UFPR" em Abril/2018 juntamente com demais membros do grupo PET - Matemática UFPR;</li>
+<li> Organizou o evento: "XIV Brincando de Matemático - Um passeio pela teoria dos grafos" em Julho/2018 juntamente com demais membros do grupo PET - Matemática UFPR;</li>
+<li> Organizou o evento: "FOZ 2018 - Mathematics and it's aplications: A ICM Satellite event" em Julho/2018</li>
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
