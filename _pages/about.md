@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-Seja bem-vindo ao meu site pessoal! Sou estudante de Matemática Industrial (UFPR), professor voluntário do Curso Pré-Vestibular ONG em Ação, e, Designer Gráfico Freelancer.
+Seja bem-vindo ao meu site pessoal! Sou estudante de Matemática Industrial (UFPR), professor voluntário do Curso Pré-Vestibular ONG em Ação, e, Designer Gráfico Freelancer. o/
