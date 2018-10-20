@@ -6,7 +6,5 @@ author_profile: true
 
 ---
 
-
-Site para notas de Aula
-
-Bacharelando de Matemática Industrial (UFPR), ex-graduando de Matemática (UNESPAR), Bolsista Pesquisador do PET Matemática (UFPR), Professor Voluntário de Matemática na ONG em Ação, Enxadrista Amador e Designer Gráfico Freelancer.
+Graduação em andamento em Bacharelado em Matemática Industrial (UFPR), possui graduação interrompida em
+Licenciatura em Matemática (UNESPAR), Designer Gráfico Freelancer, Enxadrista amador e Professor Assistente Voluntário do Curso Pré-Vestibular ONG em Ação.
