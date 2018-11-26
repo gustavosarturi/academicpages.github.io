@@ -79,8 +79,8 @@ analytics:
 # Site Author
 author:
   name             : "Gustavo Sarturi"
-  avatar           : "https://scontent.fbfh4-1.fna.fbcdn.net/v/t1.0-9/37880215_1823029321115320_8698374317131431936_n.jpg?_nc_cat=0&oh=905a17deaf33c4ada716e6b65da49142&oe=5BFB9288"
-  bio              : "Graduando de Matemática Industrial - UFPR"
+  avatar           : "https://i.imgur.com/JGh9Mio.jpg"
+  bio              : "Matemática Industrial - UFPR"
   location         : "Curitiba, PR"
   employer         :
   googlescholar    : 
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "gustavo_sarturi"
   vine             :
   weibo            :
   xing             :
